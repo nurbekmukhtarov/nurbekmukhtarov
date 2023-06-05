@@ -2,7 +2,7 @@
 - 👀 I’m interested in Androind Programming
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me http://instagram.com/nurbekmukhtarov_ and http://t.me/m0tik
+- 📫 How to reach me http://instagram.com/nurbek_mukhtorov and http://t.me/m0tik
 
 <!---
 nurbekmukhtarov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
